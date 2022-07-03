@@ -103,7 +103,7 @@ input:focus {
   width: 100px;
   height: 100px;
   margin-top: 1vw;
-  left: -30%;
+  left: -40%;
   position: absolute;
 }
 .icon img {
@@ -164,7 +164,7 @@ input:focus {
     font-size: 80px;
     position: absolute;
     left: 20%;
-    top: 45%;
+    top: 20%;
     color: white;
   }
 }
